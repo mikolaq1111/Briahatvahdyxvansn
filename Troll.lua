@@ -1,8 +1,3 @@
---[[
-  Ultimate Trolling GUI for Roblox Executor
-  Massive collection of trolling functions with no visual effects
-]]
-
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local HttpService = game:GetService("HttpService")
